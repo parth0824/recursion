@@ -12,8 +12,7 @@ void findPath(int i, int j, vector<vector<char>> &maze, vector<vector<char>> &ma
         mazePath = maze;
         return;
     }
-    else
-    {
+    else{
         maze[i][j] = '1';
         findPath(i, j + 1, maze, mazePath);
         findPath(i + 1, j, maze, mazePath);
