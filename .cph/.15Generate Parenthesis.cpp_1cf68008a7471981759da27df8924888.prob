@@ -1,0 +1,1 @@
+{"name":"Local: 15Generate Parenthesis","url":"f:\\codingblockes\\recursion\\15Generate Parenthesis.cpp","tests":[{"id":1673473090850,"input":"3","output":"()() \n(()) "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\codingblockes\\recursion\\15Generate Parenthesis.cpp","group":"local","local":true}

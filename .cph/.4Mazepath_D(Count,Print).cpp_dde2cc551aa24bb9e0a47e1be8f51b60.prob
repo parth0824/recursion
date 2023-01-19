@@ -1,0 +1,1 @@
+{"name":"Local: 4Mazepath_D(Count,Print)","url":"f:\\codingblockes\\recursion\\4Mazepath_D(Count,Print).cpp","tests":[{"id":1673150110493,"input":"3 3","output":"VVHH VHVH VHHV VHD VDH HVVH HVHV HVD HHVV HDV DVH DHV DD\n13"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\codingblockes\\recursion\\4Mazepath_D(Count,Print).cpp","group":"local","local":true}
