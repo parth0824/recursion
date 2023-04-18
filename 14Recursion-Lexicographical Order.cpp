@@ -10,7 +10,6 @@ void print(int &n,int help){
     }
 
 }
-
 int main(){
     int n;cin>>n;
     print(n,1);
