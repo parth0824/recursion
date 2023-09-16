@@ -1,1 +1,0 @@
-{"name":"Local: 29Replace all π","url":"f:\\codingblockes\\recursion\\29Replace all π.cpp","tests":[{"id":1673474911379,"input":"3\nxpix\nxabpixx3.15x\nxpipippixx","output":"x3.14x\nxab3.14xx3.15x\nx3.143.14p3.14xx"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\codingblockes\\recursion\\29Replace all π.cpp","group":"local","local":true}

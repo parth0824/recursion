@@ -1,1 +1,0 @@
-{"name":"Local: 1Ratinamaze","url":"f:\\codingblockes\\recursion\\1Ratinamaze.cpp","tests":[{"id":1673064180139,"input":"5 4\nOXOO\nOOOX\nOXOO\nXOOX\nXXOX","output":"1 0 0 0 \n1 1 0 0 \n0 1 0 0 \n0 1 1 1 \n0 0 0 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\codingblockes\\recursion\\1Ratinamaze.cpp","group":"local","local":true}

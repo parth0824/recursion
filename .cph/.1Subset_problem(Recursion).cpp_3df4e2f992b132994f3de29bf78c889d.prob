@@ -1,1 +1,0 @@
-{"name":"Local: 1Subset_problem(Recursion)","url":"f:\\codingblockes\\recursion\\1Subset_problem(Recursion).cpp","tests":[{"id":1673066991435,"input":"3\n-1 2 3\n2","output":"1 2  3\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\codingblockes\\recursion\\1Subset_problem(Recursion).cpp","group":"local","local":true}

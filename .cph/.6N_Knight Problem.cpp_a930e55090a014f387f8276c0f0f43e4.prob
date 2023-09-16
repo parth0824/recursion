@@ -1,1 +1,0 @@
-{"name":"Local: 6N_Knight Problem","url":"f:\\codingblockes\\recursion\\6N_Knight Problem.cpp","tests":[{"id":1673151832133,"input":"2","output":"{0-0} {0-1}  {0-0} {1-0}  {0-0} {1-1}  {0-1} {1-0}  {0-1} {1-1}  {1-0} {1-1} \n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\codingblockes\\recursion\\6N_Knight Problem.cpp","group":"local","local":true}

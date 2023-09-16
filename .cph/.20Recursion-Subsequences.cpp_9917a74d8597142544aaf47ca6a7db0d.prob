@@ -1,1 +1,0 @@
-{"name":"Local: 20Recursion-Subsequences","url":"f:\\codingblockes\\recursion\\20Recursion-Subsequences.cpp","tests":[{"id":1673591294024,"input":"abcd","output":"\n d c cd b bd bc bcd a ad ac acd ab abd abc abcd \n16"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\codingblockes\\recursion\\20Recursion-Subsequences.cpp","group":"local","local":true}
